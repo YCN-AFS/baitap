@@ -2,3 +2,8 @@ streamlit
 underthesea
 pandas
 watchdog
+plotly
+wordcloud
+matplotlib
+langdetect
+openpyxl
